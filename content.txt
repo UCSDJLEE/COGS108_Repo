@@ -1,0 +1,3 @@
+This repo is created for A1 in COGS108 course.
+
+My name's Jayden, I enrolled in COGS108 to fulfill one of my electives requirements for my degree.
